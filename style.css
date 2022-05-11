@@ -740,7 +740,7 @@ h1 {
 
 .html::before {
 	content: '';
-	background-image: url(/src/icons2/html5-svgrepo-com.svg);
+	background-image: url(./src/icons2/html5-svgrepo-com.svg);
 	background-size: contain;
 	background-repeat: no-repeat;
 	width: 25px;
@@ -749,7 +749,7 @@ h1 {
 
 .css::before {
 	content: '';
-	background-image: url(/src/icons2/css3-svgrepo-com.svg);
+	background-image: url(./src/icons2/css3-svgrepo-com.svg);
 	background-size: contain;
 	background-repeat: no-repeat;
 	width: 25px;
@@ -758,7 +758,7 @@ h1 {
 
 .js::before {
 	content: '';
-	background-image: url(/src/icons2/javascript-svgrepo-com.svg);
+	background-image: url(./src/icons2/javascript-svgrepo-com.svg);
 	background-size: contain;
 	background-repeat: no-repeat;
 	width: 25px;
@@ -767,7 +767,7 @@ h1 {
 
 .rjs::before {
 	content: '';
-	background-image: url(/src/icons2/react-2.svg);
+	background-image: url(./src/icons2/react-2.svg);
 	background-size: contain;
 	background-repeat: no-repeat;
 	width: 25px;
@@ -776,7 +776,7 @@ h1 {
 
 .sk::before {
 	content: '';
-	background-image: url(/src/icons2/pencil.svg);
+	background-image: url(./src/icons2/pencil.svg);
 	background-size: contain;
 	background-repeat: no-repeat;
 	width: 25px;
@@ -785,7 +785,7 @@ h1 {
 
 .figma::before {
 	content: '';
-	background-image: url(/src/icons2/figma-svgrepo-com.svg);
+	background-image: url(./src/icons2/figma-svgrepo-com.svg);
 	background-size: contain;
 	background-repeat: no-repeat;
 	width: 25px;
@@ -794,7 +794,7 @@ h1 {
 
 .ps::before {
 	content: '';
-	background-image: url(/src/icons2/photoshop.svg);
+	background-image: url(./src/icons2/photoshop.svg);
 	background-size: contain;
 	background-repeat: no-repeat;
 	width: 25px;
@@ -803,7 +803,7 @@ h1 {
 
 .ai::before {
 	content: '';
-	background-image: url(/src/icons2/illustrator.svg);
+	background-image: url(./src/icons2/illustrator.svg);
 	background-size: contain;
 	background-repeat: no-repeat;
 	width: 25px;
@@ -812,7 +812,7 @@ h1 {
 
 .bl::before {
 	content: '';
-	background-image: url(/src/icons2/Blender_logo_no_text.svg);
+	background-image: url(./src/icons2/Blender_logo_no_text.svg);
 	background-size: contain;
 	background-repeat: no-repeat;
 	width: 25px;
@@ -821,7 +821,7 @@ h1 {
 
 .un::before {
 	content: '';
-	background-image: url(/src/icons2/icons8-unity.svg);
+	background-image: url(./src/icons2/icons8-unity.svg);
 	background-size: contain;
 	background-repeat: no-repeat;
 	width: 25px;
@@ -830,7 +830,7 @@ h1 {
 
 .tr::before {
 	content: '';
-	background-image: url(/src/icons2/terminal.svg);
+	background-image: url(./src/icons2/terminal.svg);
 	background-size: contain;
 	background-repeat: no-repeat;
 	width: 25px;

@@ -45,7 +45,7 @@ email.forEach((a) => {
 });
 
 email.forEach((a) => {
-	a.addEventListener('mouseleave', () => {
+	a.addEventListener('click', () => {
 		a.text = 'plams.petkov@gmail.com';
 		a.classList.remove('copied');
 	});
